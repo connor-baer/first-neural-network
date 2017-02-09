@@ -10,14 +10,9 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 
 ### Instructions
 1. Download or clone the this repository and `cd` into the `first-neural-network` folder.
-2. Download anaconda or miniconda. Create a new conda environment:
-`conda create --name dlnd python=3`
-Enter your new environment:
-Mac/Linux: >> `source activate dlnd`
-Windows: >> `activate dlnd`
-3. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following:
-`conda install numpy matplotlib pandas jupyter notebook`
-4. Run the following to open up the notebook:
-`jupyter notebook`
+2. Download anaconda or miniconda. Create a new conda environment: `conda create --name dlnd python=3`. Enter your new environment:
+Mac/Linux: `source activate dlnd` / Windows: `activate dlnd`.
+3. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following: `conda install numpy matplotlib pandas jupyter notebook`.
+4. Run the following to open up the notebook: `jupyter notebook`.
 
 Follow the instructions in the notebook, they will lead you through the project.
