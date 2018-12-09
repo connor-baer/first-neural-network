@@ -9,3 +9,7 @@ _Organized by course_
 ### [Your First Neural Network](https://connor-baer.github.io/udacity/deep-learning-foundations/first-neural-network/)
 
 > In this project, you'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. You'll also get to see how to apply these networks to solve real prediction problems!
+
+## [VR Foundations Nanodegree](https://eu.udacity.com/course/vr-foundations-nanodegree--nd105)
+
+> Learn the Unity game engine, C#, and Google Cardboard, and gain foundational VR knowledge and skills.
